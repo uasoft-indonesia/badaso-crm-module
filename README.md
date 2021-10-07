@@ -1,0 +1,1 @@
+# badaso-crm-module
